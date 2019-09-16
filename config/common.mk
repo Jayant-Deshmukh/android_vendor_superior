@@ -104,6 +104,17 @@ endif
 # Packages
 include vendor/superior/config/packages.mk
 
+# Custom Overlays
+# Settings
+PRODUCT_PACKAGES += \
+    SystemPitchBlackOverlay \
+    SystemDarkGrayOverlay \
+    SystemUIDarkGrayOverlay \
+    SystemStyleOverlay \
+    SystemUIStyleOverlay \
+    SystemNightOverlay \
+    SystemUINightOverlay
+
 #versioning
 include vendor/superior/config/version.mk
 
