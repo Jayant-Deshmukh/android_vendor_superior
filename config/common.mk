@@ -108,6 +108,7 @@ include vendor/superior/config/packages.mk
 # Settings
 PRODUCT_PACKAGES += \
     SystemPitchBlackOverlay \
+    SystemUIPitchBlackOverlay \
     SystemDarkGrayOverlay \
     SystemUIDarkGrayOverlay \
     SystemStyleOverlay \
