@@ -118,7 +118,11 @@ PRODUCT_PACKAGES += \
     SystemSolarizedDarkOverlay \
     SystemUISolarizedDarkOverlay \
     SystemMaterialOceanOverlay \
-    SystemUIMaterialOceanOverlay
+    SystemUIMaterialOceanOverlay \
+    SystemBakedGreenOverlay \
+    SystemUIBakedGreenOverlay \
+    SystemChocoXOverlay \
+    SystemUIChocoXOverlay
 
 #versioning
 include vendor/superior/config/version.mk
