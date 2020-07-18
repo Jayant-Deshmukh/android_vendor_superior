@@ -122,7 +122,9 @@ PRODUCT_PACKAGES += \
     SystemBakedGreenOverlay \
     SystemUIBakedGreenOverlay \
     SystemChocoXOverlay \
-    SystemUIChocoXOverlay
+    SystemUIChocoXOverlay \
+    SystemDarkAubergineOverlay \
+    SystemUIDarkAubergineOverlay
 
 #versioning
 include vendor/superior/config/version.mk
